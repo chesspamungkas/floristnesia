@@ -1,6 +1,6 @@
 # Floristnesia Theme with WordPress (Full Site Editing) and WooCommerce
 
-![GitHub Logo](https://github.com/chesspamungkas/floristnesia/blob/main/floristnesia/screenshot.png)
+![screenshot](https://github.com/chesspamungkas/floristnesia/assets/24834825/f9318643-467c-4775-b1e0-63f82cf3fe17)
 
 ## Installation
 
